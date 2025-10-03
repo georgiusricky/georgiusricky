@@ -5,7 +5,7 @@ I’m passionate about building software and solving problems with code.
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Reach me on :
 
 - 🌐 Website: [rickygeorgius.com](https://rickygeorgius.com)  
 - 💼 LinkedIn: [linkedin.com/in/rickygeorgius](https://www.linkedin.com/in/georgius-ricky/)  
