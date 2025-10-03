@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ricky
 
-<!--
-**georgiusricky/georgiusricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I’m passionate about building software and solving problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+
+- 🌐 Website: [rickygeorgius.com](https://rickygeorgius.com)  
+- 💼 LinkedIn: [linkedin.com/in/rickygeorgius](https://www.linkedin.com/in/rickygeorgius)  
+- 📧 Email: [ricky.georgius@gmail.com](mailto:ricky.georgius@gmail.com)  
+- 🛠️ Upwork: [upwork.com/freelancers/~rickygeorgius](https://www.upwork.com/freelancers/~rickygeorgius)
