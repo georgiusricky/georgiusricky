@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ricky
 
-Welcome to my GitHub profile! 🚀  
 I’m passionate about building software and solving problems with code.
 
 ---
