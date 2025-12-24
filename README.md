@@ -1,4 +1,4 @@
-# 👋 Helo, I'm Ricky
+# 👋 Hello, I'm Ricky
 
 I’m passionate about building software and solving problems with code.
 
