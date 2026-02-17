@@ -1,4 +1,4 @@
-# 👋 Hello, it's me Ricky
+# 👋 Hello
 
 ---
 
