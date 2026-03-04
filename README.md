@@ -1,7 +1,3 @@
-# 👋 Hello
-
----
-
 ## 🔗 Reach me on :
 
 - 🌐 Website: [rickygeorgius.com](https://rickygeorgius.com)  
