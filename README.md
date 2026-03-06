@@ -1,4 +1,4 @@
-## 🔗 Reach me on :
+## 🔗 Reach me on : 
 
 - 🌐 Website: [rickygeorgius.com](https://rickygeorgius.com)  
 - 💼 LinkedIn: [linkedin.com/in/rickygeorgius](https://www.linkedin.com/in/georgius-ricky/)  
